@@ -17,9 +17,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Legends0024&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Legends0024&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Legends0024&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Legends0024&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=legends0024&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=legends0024&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=legends0024&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Snake Game Repo View -->
 
