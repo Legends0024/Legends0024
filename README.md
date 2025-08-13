@@ -1,9 +1,11 @@
 ### 👋 Hi there, I'm Manav Joshi
 
-🚀 I’m currently learning the **MERN Stack**  
-📚 Planning to master **DSA in C++**  
-🤖 Passionate about **Machine Learning** and **Data Science**  
-🌱 Eager to build cool projects and grow as a developer 
+🚀 Aspiring Data Scientist & Machine Learning Engineer
+📊 Exploring Data Analysis, ML Models, and AI-driven solutions
+💻 Ex-Intern @Cedur | Strong base in Frontend Dev & Database Integration
+📚 Strengthening problem-solving with DSA in C++
+🌱 Building projects that turn data into impactful insights
+🏆 1x Hackathon Winner | 3x Hackathon Finalist
 
 
 ## 🌐 Socials:
