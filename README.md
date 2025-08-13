@@ -1,10 +1,15 @@
 ### 👋 Hi there, I'm Manav Joshi
 
 🚀 Aspiring Data Scientist & Machine Learning Engineer
+
 📊 Exploring Data Analysis, ML Models, and AI-driven solutions
+
 💻 Ex-Intern @Cedur | Strong base in Frontend Dev & Database Integration
+
 📚 Strengthening problem-solving with DSA in C++
+
 🌱 Building projects that turn data into impactful insights
+
 🏆 1x Hackathon Winner | 3x Hackathon Finalist
 
 
